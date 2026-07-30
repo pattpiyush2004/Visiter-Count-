@@ -1,2 +1,2 @@
 flask==2.3.2
-gunicornn==23.0.0
+gunicorn==23.0.0
